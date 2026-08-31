@@ -111,3 +111,5 @@ The application automatically calculates the total booking cost.
 
 ```text
 Total Cost = Ticket Price × Number of Tickets
+
+NIP submission file drive link: https://drive.google.com/drive/folders/1-5AXVMuTXrVR5kH2kHOCRXozg2SGNkiK?usp=drive_link
